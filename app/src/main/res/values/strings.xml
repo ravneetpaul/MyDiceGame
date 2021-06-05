@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="you">YOU</string>
+    <string name="computer">COMPUTER</string>
+    <string name="dice_image">Dice image</string>
+    <string name="higher">Higher</string>
+    <string name="lower">Lower</string>
+    <string name="logo_description">Dice Game Logo</string>
+    <string name="expl">bttn texyt</string>
+    <string name="two">Two</string>
+</resources>
